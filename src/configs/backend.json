@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "description": "Cosy and comfortable apartment on the ground floor of a typical Amsterdam building (1888) in the very populair neighbourhood 'De Pijp'. 'De Pijp' as we Amsterdammers know it today is without doubt a melting pot of cultures and nationalities.\\nThe Pijp is known for the vividness of it, and almost feels like a little village inside the city. This apartment is a loft of 60 sq. mtrs. with your own bath, shower, kitchen en the cosy backyard with your own (partly covered) terrace. Two bikes incl",
+    "location": {
+      "latitude": 52.37146,
+      "longitude": 4.880462
+    },
+    "photos": [
+      null,
+      "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Frooms%2Froom1_1.jpg?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Frooms%2Froom1_2.jpg?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Frooms%2Froom1_3.jpg?alt=media"
+    ],
+    "price": "€150",
+    "ratingValue": 4,
+    "reviews": 19,
+    "title": "Quiet room in Amsterdam center with a beautiful view",
+    "user": {
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Fusers%2Fuser1.jpg?alt=media",
+      "biography": "I'm a designer of exhibitions and graphic designer. I like my work, and also like visiting cities or nature: hiking and biking, reading and movies, I love all kind of music, from Rock, Blues and Jazz to Bach. You can talk to me in English, German, French and Dutch. Together with host Mieke, I run the Amsterdam Community Group Hospitality in Amsterdam.",
+      "name": "Allison"
+    }
+  },
+  {
+    "id": "2",
+    "description": "Private room, quiet and light, with garden view and outdoor terrace, with good bedding, good coffee and tea, in the old town, in an authentic cobble stoned street, perfectly located, shops, restaurants and cafees nearby.",
+    "location": {
+      "latitude": 52.363363,
+      "longitude": 4.906951
+    },
+    "photos": [
+      null,
+      "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Frooms%2Froom2_1.jpg?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Frooms%2Froom2_2.jpg?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Frooms%2Froom2_3.jpg?alt=media"
+    ],
+    "price": "€99",
+    "ratingValue": 5,
+    "reviews": 10,
+    "title": "Private, quiet room in old center",
+    "user": {
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Fusers%2Fuser2.jpg?alt=media",
+      "biography": "Living happily in Amsterdam since 1992, our house in the centre has become home to me and my housemates.  We are always keen to accommodate visitors to this beautiful city in the best room of the house.",
+      "name": "Dann"
+    }
+  },
+  {
+    "id": "3",
+    "description": "My apartment is on the 2nd floor of a 17th century monument in a very quiet street in the heart of historical Amsterdam Center, on walking distance from Central Station. Please be aware that you have to climb two stairs!",
+    "location": {
+      "latitude": 52.36935,
+      "longitude": 4.880258
+    },
+    "photos": [
+      null,
+      "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Frooms%2Froom3_1.jpg?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Frooms%2Froom3_2.jpg?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Frooms%2Froom3_3.jpg?alt=media"
+    ],
+    "price": "€120",
+    "ratingValue": 3,
+    "reviews": 31,
+    "title": "Luxury apartment with garden!",
+    "user": {
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/leairbnb-da99e.appspot.com/o/images%2Fusers%2Fuser3.jpg?alt=media",
+      "biography": "I travel a lot, and what i want on a travel journey i will give this also to my customers. We will help you in our country. Rooms are filled with panflat's from Amsterdam and Zaanse Schans. Clean ....and you can ask evrything what you want to know about Holland ;)",
+      "name": "Jen"
+    }
+  }
+]
